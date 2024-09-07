@@ -8,6 +8,7 @@ This program is designed to simplify web data extraction. With just a few inputs
 Set Up
 
 pip install requests beautifulsoup4 pandas selenium googlesearch-python
+
 python web_data_extractor.py
 
 
