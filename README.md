@@ -8,6 +8,7 @@ python web_data_extractor.py
 
 
 Features and Benefits
+
 Multi-Data Extraction: Retrieve various types of data like phone numbers, emails, and links, offering endless possibilities for market research, lead generation, and data analysis.
 
 CAPTCHA Handling: Easily bypass CAPTCHA-protected pages with Selenium, making the extraction process smooth even for difficult sites.
