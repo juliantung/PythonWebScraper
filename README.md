@@ -2,6 +2,7 @@ Web Data Extractor Program
 This program is designed to simplify web data extraction. With just a few inputs, you can quickly retrieve data such as links, headings, phone numbers, emails, and more from multiple websites. It integrates both traditional HTTP requests and Selenium, allowing you to bypass CAPTCHAs when necessary.
 
 Set Up
+
 pip install requests beautifulsoup4 pandas selenium googlesearch-python
 python web_data_extractor.py
 
